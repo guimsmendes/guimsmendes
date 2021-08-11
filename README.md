@@ -24,9 +24,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Mendes-Java" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=77bb41">
   <img align="center" alt="Mendes-Spring" height="30" width="40" src="https://icongr.am/simple/spring.svg?size=128&color=77bb41&colored=false">
   <img align="center" alt="Mendes-AWS" height="30" width="40" src="https://icongr.am/simple/amazonaws.svg?size=128&color=ffffff&colored=false">
-  <img align="center" alt="Mendes-Go" height="30" width="40" src="https://icongr.am/devicon/go-original.svg?size=128&color=ffffff">
-  <img align="center" alt="Mendes-Kafka" height="30" width="40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=ffffff">
-  <img align="center" alt="Mendes-Rabbit" height="30" width="40" src="https://icongr.am/simple/rabbitmq.svg?size=128&color=ffffff&colored=false">
+  <img align="center" alt="Mendes-Go" height="30" width="40" src="https://icongr.am/devicon/go-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Mendes-Kafka" height="30" width="40" src="https://icongr.am/simple/apachekafka.svg?size=128&color=ffffff&colored=false">
+  <img align="center" alt="Mendes-Rabbit" height="30" width="40" src="https://icongr.am/simple/rabbitmq.svg?size=128&color=d95000&colored=false">
   <img align="center" alt="Mendes-Mongo" height="30" width="40" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=ffffff">
   <img align="center" alt="Mendes-Redis" height="30" width="40" src="https://icongr.am/devicon/redis-original-wordmark.svg?size=128&color=ffffff">
   <img align="center" alt="Mendes-Postgres" height="30" width="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=ffffff">
