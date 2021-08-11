@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Guilherme Mendes
+
+- Back-End Software Engineer
+- PsyTrance Prog Dark DJ/Producer (checkout the SoundCloud link below)
 
 <!--
 **guimsmendes/guimsmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
