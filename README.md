@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Guilherme Mendes
+### Hi there! I'm Guilherme Mendes
 
 - Back-End Software Engineer
 - PsyTrance Prog Dark DJ/Producer (checkout the SoundCloud link below)
