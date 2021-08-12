@@ -3,21 +3,6 @@
 - Back-End Software Engineer
 - PsyTrance Prog Dark DJ/Producer (checkout the SoundCloud link below)
 
-<!--
-**guimsmendes/guimsmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working with Back-end
-- 🌱 I’m currently learning GoLang
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...Ubuntu, Visual Basic, Visual Studio, IntelliJ
--->
-
  <div>
   <a href="https://www.hackerrank.com/guimsmendes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guimsmendes&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&count_private=true"/>
@@ -52,7 +37,10 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/guimsmendes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a> 
  <a href="https://discord.gg/jkrM5gcD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<!--
 
-
- 
+ -->
   ![Snake animation](https://github.com/guimsmendes/guimsmendes/blob/output/github-contribution-grid-snake.svg)
+
+ </div>
+
