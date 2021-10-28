@@ -37,9 +37,9 @@
   <a href="https://instagram.com/guimsmendes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a> 
  <a href="https://discord.gg/jkrM5gcD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- 
+<!--  
   ![Snake animation](https://github.com/guimsmendes/guimsmendes/blob/output/github-contribution-grid-snake.svg)
-
+ -->
  
 
  </div>
