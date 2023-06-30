@@ -20,8 +20,6 @@
   <img align="center" alt="Mendes-Postgres" height="30" width="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=ffffff">
   <img align="center" alt="Mendes-Swagger" height="30" width="40" src="https://icongr.am/simple/swagger.svg?size=128&color=4f7a28&colored=false">
   <img align="center" alt="Mendes-Cucumber" height="30" width="40" src="https://icongr.am/devicon/cucumber-plain.svg?size=128&color=669c35">
-  <img align="center" alt="Mendes-IntelliJ" height="30" width="40" src="https://icongr.am/simple/intellijidea.svg?size=128&color=ffffff&colored=false">
-  <img align="center" alt="Mendes-VisualStudio" height="30" width="40" src="https://icongr.am/simple/visualstudiocode.svg?size=128&color=0042aa&colored=false">
   <img align="center" alt="Mendes-Ubuntu" height="30" width="40" src="https://icongr.am/devicon/ubuntu-plain-wordmark.svg?size=128&color=ad3e00">
   <img align="center" alt="Mendes-Docker" height="30" width="40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=ffffff">
   <img align="center" alt="Mendes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
