@@ -1,28 +1,9 @@
 ### Hi there! I'm Guilherme Mendes
 
-- Back-End Software Engineer
-- PsyTrance Prog Dark DJ/Producer (checkout the SoundCloud link below)
-
  <div>
   <a href="https://www.hackerrank.com/guimsmendes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guimsmendes&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimsmendes&layout=compact&langs_count=7&theme=onedark"/>
-</div>
- <div style="display: inline_block"><br>
-  <img align="center" alt="Mendes-Java" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=77bb41">
-  <img align="center" alt="Mendes-Spring" height="30" width="40" src="https://icongr.am/simple/spring.svg?size=128&color=77bb41&colored=false">
-  <img align="center" alt="Mendes-AWS" height="30" width="40" src="https://icongr.am/simple/amazonaws.svg?size=128&color=ffffff">
-  <img align="center" alt="Mendes-Go" height="30" width="40" src="https://icongr.am/devicon/go-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Mendes-Kafka" height="30" width="40" src="https://icongr.am/simple/apachekafka.svg?size=128&color=ffffff&colored=false">
-  <img align="center" alt="Mendes-Rabbit" height="30" width="40" src="https://icongr.am/simple/rabbitmq.svg?size=128&color=d95000&colored=false">
-  <img align="center" alt="Mendes-Mongo" height="30" width="40" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=ffffff">
-  <img align="center" alt="Mendes-Redis" height="30" width="40" src="https://icongr.am/devicon/redis-original-wordmark.svg?size=128&color=ffffff">
-  <img align="center" alt="Mendes-Postgres" height="30" width="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=ffffff">
-  <img align="center" alt="Mendes-Swagger" height="30" width="40" src="https://icongr.am/simple/swagger.svg?size=128&color=4f7a28&colored=false">
-  <img align="center" alt="Mendes-Cucumber" height="30" width="40" src="https://icongr.am/devicon/cucumber-plain.svg?size=128&color=669c35">
-  <img align="center" alt="Mendes-Ubuntu" height="30" width="40" src="https://icongr.am/devicon/ubuntu-plain-wordmark.svg?size=128&color=ad3e00">
-  <img align="center" alt="Mendes-Docker" height="30" width="40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=ffffff">
-  <img align="center" alt="Mendes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
 
    ##
