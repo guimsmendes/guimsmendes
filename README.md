@@ -1,6 +1,5 @@
 ## Guilherme Mendes
 
-![Visitor Count](https://profile-counter.glitch.me/guimsmendes/count.svg)
 <!--  
  [![GitHub Streak](https://streak-stats.demolab.com?user=guimsmendes&theme=ayu-mirage&border_radius=50&exclude_days=Sun%2CSat&card_height=200)](https://git.io/streak-stats)
   -->
