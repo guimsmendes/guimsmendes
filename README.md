@@ -11,6 +11,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimsmendes&layout=compact&langs_count=7&theme=ayu-mirage&border_radius=20"/>
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
    ##
  
