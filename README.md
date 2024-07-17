@@ -4,7 +4,7 @@
  <div>
   <a href="https://www.hackerrank.com/guimsmendes">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimsmendes&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimsmendes&layout=compact&langs_count=7&theme=ayu-mirage&border_radius=50"/>
 </div>
 
    ##
