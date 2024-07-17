@@ -6,13 +6,13 @@
 ### <div align="center"></div>  
   
 
-- 🔭  I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working at Gain.pro
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning React
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Go and DevOps
   
 
 - ⚡ Fun fact: I use tabs over spaces  
