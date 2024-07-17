@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img src="./github." align="center" style="width: 100%" />
+<img src="./github.png" align="center" style="width: 100%" />
 </div>  
   
 
