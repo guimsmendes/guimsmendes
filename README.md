@@ -10,7 +10,7 @@
 </div>
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12160458370&cover_image=true&theme=novatorem&show_offline=false&background_color=444444&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=12160458370&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12160458370&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=12160458370&redirect=true)
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
