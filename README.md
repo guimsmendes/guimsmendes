@@ -1,8 +1,9 @@
 ### Hi there! I'm Guilherme Mendes
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=guimsmendes&theme=ayu-mirage&border_radius=50&exclude_days=Sun%2CSat&card_height=200)](https://git.io/streak-stats)
  <div>
   <a href="https://www.hackerrank.com/guimsmendes">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=guimsmendes&theme=ayu-mirage&border_radius=50&exclude_days=Sun%2CSat&card_height=200)](https://git.io/streak-stats)
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimsmendes&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
