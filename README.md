@@ -1,6 +1,3 @@
-## Guilherme Mendes
-
-
 <div align="center">
 <img src="./github.png" align="center" style="width: 100%" />
 </div>  
