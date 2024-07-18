@@ -1,22 +1,28 @@
 <div align="center">
 <img src="./github.png" align="center" style="width: 100%" />
 </div>  
-  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=guimsmendes&&style=flat-square" align="center" />
+<img src="https://wakatime.com/badge/user/496581e6-44e0-4e81-b292-7c3f7c33a58f/project/125dcb50-b3da-4152-9e34-bd7fb3db88bf.svg" align="center" />
+</div>  
 
 ### <div align="center"></div>  
-  
 
-- 🔭 I’m currently working at Gain.pro
-  
+```go
+  me := Profile{
+      Name: "Guilherme Mendes",
+      Location: "Amsterdam, NL",
+      Birthplace: "Santos, BR",
+      Job: Experience{
+            Position: "Sofware & DevOps Engineer",
+            Company: "Gain.pro",
+      },
+      PastExperiences
 
-- 🌱 I’m currently learning React
-  
-
-- ❓ Ask me about anything related to Go and DevOps
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
+      LivedCountries: ["BR", "JP", "NL"],
+      Hobbies: ["Travel", "Music", "Photography", "Videogame", "Skateboard"]
+  }
+```
 
 <br/>  
 
@@ -50,7 +56,7 @@
 
 
 ### BackEnd  
-<div align="center">  
+<div align="center" >  
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
@@ -67,7 +73,7 @@
 
 
 
-### Backend  
+### DevOps  
 <div align="center">  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
@@ -87,44 +93,13 @@
 
 
 ## Github Stats  
-[![Guimsmendes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guimsmendes&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
- <div>
+ <p align="center">
   <a href="https://www.hackerrank.com/guimsmendes">
-  <img height="180em" src="https://streak-stats.demolab.com?user=guimsmendes&theme=ayu-miragek&border_radius=20&exclude_days=Sun%2CSat&card_height=200"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimsmendes&layout=compact&langs_count=7&theme=ayu-mirage&border_radius=20"/>
-</div>
+  <img height="180em" src="https://streak-stats.demolab.com?user=guimsmendes&theme=ayu-mirage&border_radius=20&exclude_days=Sun%2CSat&card_height=200"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimsmendes&langs_count=7&theme=ayu-mirage&border_radius=20"/>
+</p>
 <br/>  
 
-
-  
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=guimsmendes&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-    <div class="container">
-        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=12160458370&redirect=true" target="_blank">
-            <img height="400em" src="https://spotify-github-profile.kittinanx.com/api/view?uid=12160458370&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile">
-        </a>
-        <a href="https://spotify-recently-played-readme.vercel.app/api?user=12160458370&unique=true" target="_blank">
-            <img height="400em" width="50" src="https://spotify-recently-played-readme.vercel.app/api?user=12160458370&unique=true" alt="Recently Played">
-        </a>
-    </div>
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=12160458370&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
-</p>
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=12160458370&count=5">
-</p>
 
 <!--START_SECTION:activity-->
 
@@ -139,6 +114,21 @@ go.mod   0 secs          ██▓░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+[![Guimsmendes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guimsmendes&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  
+## Spotify
+<p align="center">
+<br/>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=12160458370&redirect=true" target="_blank">
+  <img height="400em" src="https://spotify-github-profile.kittinanx.com/api/view?uid=12160458370&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile" align="center">
+</a>
+<a href="https://spotify-recently-played-readme.vercel.app/api?user=12160458370&unique=true" target="_blank">
+  <img height="400em" src="https://spotify-recently-played-readme.vercel.app/api?user=12160458370&unique=true" alt="Recently Played" align="center">
+</a>
+<br>
+</p>
+
 
 
    ##
