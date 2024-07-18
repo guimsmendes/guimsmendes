@@ -50,7 +50,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Skill Set  
 <table align="center" style="width:100%;  text-align:center;table-layout:auto;">
   <tr>
     <td valign="center" style="width:50%; text-align:center; padding: 1000px;">
@@ -104,8 +104,10 @@
 
 <br/>  
 
+<details>
+  <summary><h2>Github Stats</h2></summary>
+  <hr>
 
-## Github Stats  
  <p align="center">
   <a href="https://www.hackerrank.com/guimsmendes">
   <img height="180em" src="https://streak-stats.demolab.com?user=guimsmendes&theme=ayu-mirage&border_radius=20&exclude_days=Sun%2CSat&card_height=200"/>
@@ -129,6 +131,7 @@ go.mod   0 secs          ██▓░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 [![Guimsmendes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guimsmendes&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</details>
   
 ## Spotify
 <p align="center">
