@@ -134,8 +134,8 @@
 
  <p align="center">
   <a href="https://www.hackerrank.com/guimsmendes">
-  <img height="300em" src="https://streak-stats.demolab.com?user=guimsmendes&theme=ayu-mirage&border_radius=20&exclude_days=Sun%2CSat&card_height=200"/>
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimsmendes&langs_count=7&theme=ayu-mirage&border_radius=20"/>
+  <img height="200em" src="https://streak-stats.demolab.com?user=guimsmendes&theme=ayu-mirage&border_radius=20&exclude_days=Sun%2CSat&card_height=200"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimsmendes&langs_count=7&theme=ayu-mirage&border_radius=20"/>
 </p>
 <br/>  
 
