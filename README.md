@@ -49,8 +49,21 @@
 
 <br/>  
 
+<h2>Spotify</h2>
+<p align="center">
+<br/>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=12160458370&redirect=true" target="_blank">
+  <img height="400em" src="https://spotify-github-profile.kittinanx.com/api/view?uid=12160458370&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile" align="center">
+</a>
+<a href="https://spotify-recently-played-readme.vercel.app/api?user=12160458370&unique=true" target="_blank">
+  <img height="400em" src="https://spotify-recently-played-readme.vercel.app/api?user=12160458370&unique=true" alt="Recently Played" align="center">
+</a>
+<br>
+</p>
 
-## Skill Set  
+
+
+<h2>Skill Set </h2> 
 <table align="center" style="width:100%;  text-align:center;table-layout:auto;">
   <tr>
     <td valign="center" style="width:50%; text-align:center; padding: 1000px;">
@@ -106,7 +119,7 @@
 
 <details>
   <summary><h2>Github Stats</h2></summary>
-  <hr>
+
 
  <p align="center">
   <a href="https://www.hackerrank.com/guimsmendes">
@@ -133,17 +146,6 @@ go.mod   0 secs          ██▓░░░░░░░░░░░░░░░�
 
 </details>
   
-## Spotify
-<p align="center">
-<br/>
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=12160458370&redirect=true" target="_blank">
-  <img height="400em" src="https://spotify-github-profile.kittinanx.com/api/view?uid=12160458370&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile" align="center">
-</a>
-<a href="https://spotify-recently-played-readme.vercel.app/api?user=12160458370&unique=true" target="_blank">
-  <img height="400em" src="https://spotify-recently-played-readme.vercel.app/api?user=12160458370&unique=true" alt="Recently Played" align="center">
-</a>
-<br>
-</p>
 
 
 
