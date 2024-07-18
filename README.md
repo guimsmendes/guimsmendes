@@ -120,10 +120,10 @@
 <p align="center">
 <br/>
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=12160458370&redirect=true" target="_blank">
-  <img height="300em" src="https://spotify-github-profile.kittinanx.com/api/view?uid=12160458370&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile" align="center">
+  <img height="400em" src="https://spotify-github-profile.kittinanx.com/api/view?uid=12160458370&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile" align="center">
 </a>
 <a href="https://spotify-recently-played-readme.vercel.app/api?user=12160458370&unique=true" target="_blank">
-  <img height="300em" src="https://spotify-recently-played-readme.vercel.app/api?user=12160458370&unique=true" alt="Recently Played" align="center">
+  <img height="400em" src="https://spotify-recently-played-readme.vercel.app/api?user=12160458370&unique=true" alt="Recently Played" align="center">
 </a>
 <br>
 </p>
@@ -134,8 +134,8 @@
 
  <p align="center">
   <a href="https://www.hackerrank.com/guimsmendes">
-  <img height="200em" src="https://streak-stats.demolab.com?user=guimsmendes&theme=ayu-mirage&border_radius=20&exclude_days=Sun%2CSat&card_height=200"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimsmendes&langs_count=7&theme=ayu-mirage&border_radius=20"/>
+  <img height="250em" src="https://streak-stats.demolab.com?user=guimsmendes&theme=ayu-mirage&border_radius=20&exclude_days=Sun%2CSat&card_height=200"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimsmendes&langs_count=7&theme=ayu-mirage&border_radius=20"/>
 </p>
 <br/>  
 
