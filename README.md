@@ -87,19 +87,18 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimsmendes&hide_border=true&layout=compact" align="center" /></div>  
+[![Guimsmendes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guimsmendes&theme=ayu-mirage)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+ <div>
+  <a href="https://www.hackerrank.com/guimsmendes">
+  <img height="180em" src="https://streak-stats.demolab.com?user=guimsmendes&theme=ayu-mirage&border_radius=20&exclude_days=Sun%2CSat&card_height=200"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimsmendes&layout=compact&langs_count=7&theme=ayu-mirage&border_radius=20"/>
+</div>
 <br/>  
 
 
-## Recent Blog Posts  
   
 
-<br/>  
-
-  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=guimsmendes&&style=flat-square" align="center" />
@@ -111,16 +110,6 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-<!--  
- [![GitHub Streak](https://streak-stats.demolab.com?user=guimsmendes&theme=ayu-mirage&border_radius=50&exclude_days=Sun%2CSat&card_height=200)](https://git.io/streak-stats)
-  -->
- <div>
-  <a href="https://www.hackerrank.com/guimsmendes">
-  <img height="180em" src="https://streak-stats.demolab.com?user=guimsmendes&theme=ayu-mirage&border_radius=20&exclude_days=Sun%2CSat&card_height=200"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimsmendes&layout=compact&langs_count=7&theme=ayu-mirage&border_radius=20"/>
-</div>
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12160458370&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=12160458370&redirect=true)
