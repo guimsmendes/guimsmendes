@@ -1,10 +1,10 @@
-<div align="center">
-<img src="./github.png" align="center" style="width: 100%" />
-</div>  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=guimsmendes&&style=flat-square" align="center" />
-<img src="https://wakatime.com/badge/user/496581e6-44e0-4e81-b292-7c3f7c33a58f/project/125dcb50-b3da-4152-9e34-bd7fb3db88bf.svg" align="center" />
-</div>  
+  <div align="center">
+    <img src="./github.png" align="center" style="width: 100%" />
+  </div>  
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=guimsmendes&&style=flat-square" align="center" />
+    <img src="https://wakatime.com/badge/user/496581e6-44e0-4e81-b292-7c3f7c33a58f/project/125dcb50-b3da-4152-9e34-bd7fb3db88bf.svg" align="center" />
+  </div>  
 
 ### <div align="center"></div>  
 
@@ -28,23 +28,23 @@
 
 
 ## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/guilherme-mendes-b5381555" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/guimsmendes" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/guimsmendes" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/guimsmendes" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@guilhermemendes_57138" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-</div>  
+  <div align="center">
+    <a href="https://linkedin.com/in/guilherme-mendes-b5381555" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://instagram.com/guimsmendes" target="_blank">
+    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://github.com/guimsmendes" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://dev.to/guimsmendes" target="_blank">
+    <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://medium.com/@guilhermemendes_57138" target="_blank">
+    <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+    </a>  
+  </div>  
   
 
 <br/>  
@@ -54,41 +54,51 @@
 <table align="center" style="width:100%;  text-align:center;table-layout:auto;">
   <tr>
     <td valign="center" style="width:50%; text-align:center; padding: 1000px;">
-
-#### BackEnd  
-<div align="center" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 100px;">  
-<a href="https://go.dev/" target="_blank" style="margin: 10px; width: 30%;"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank" style="margin: 10px; width: 30%;"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank" style="margin: 10px; width: 30%;"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="25 "/></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank" style="margin: 10px; width: 30%;"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://www.postgresql.org/" target="_blank" style="margin: 10px; width: 30%;"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank" style="margin: 10px; width: 30%;"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://www.elastic.co/" target="_blank" style="margin: 10px; width: 30%;"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="25" /></a>  
-<a href="https://redis.io/" target="_blank" style="margin: 10px; width: 30%;"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" /></a>  
-<a href="https://kafka.apache.org/" target="_blank" style="margin: 10px; width: 30%;"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="25" /></a>  
-<a href="https://www.rabbitmq.com/" target="_blank" style="margin: 10px; width: 30%;"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="25" /></a>  
-</div>
-
-  </td>
-
-  <td valign="top" style="width:50%; text-align:center; padding: 50px;"">
-
-
-#### DevOps  
-<div align="center" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">  
-<a href="https://cloud.google.com/" target="_blank" style="margin: 10px; width: 30%;"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>  
-<a href="https://www.terraform.io/" target="_blank" style="margin: 10px; width: 30%;"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank" style="margin: 10px; width: 30%;"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://kubernetes.io/" target="_blank" style="margin: 10px; width: 30%;"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>  
-<a href="https://github.com/" target="_blank" style="margin: 10px; width: 30%;"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://aws.amazon.com/" target="_blank" style="margin: 10px; width: 30%;"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank" style="margin: 10px; width: 30%;"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://www.jenkins.io/" target="_blank" style="margin: 10px; width: 30%;"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="25" /></a>  
-<a href="https://grafana.com/" target="_blank" style="margin: 10px; width: 30%;"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="25" /></a>  
-<a href="https://www.elastic.co/kibana/" target="_blank" style="margin: 10px; width: 30%;"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kibana.png" alt="Kibana" height="25" /></a>  
-</div>
-
-  </td>
+      <p align="center" style="font-weight: bold; font-size: 56px;">
+         BackEnd
+      </p>
+      <div align="center">
+        <table>
+          <tr>
+            <td style="padding: 20px;"><a href="https://go.dev" target="_blank"><img height="40" width="40" src="https://cdn.simpleicons.org/go" /></a></td>
+            <td style="padding: 20px;"><a href="https://www.java.com/en/" target="_blank"><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java" /></a></td>
+            <td style="padding: 20px;"><a href="https://spring.io" target="_blank"><img height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring"/></a></td>
+            <td style="padding: 20px;"><a href="https://quarkus.io" target="_blank"><img height="40" width="40" src="https://www.svgrepo.com/show/354245/quarkus-icon.svg" alt="Quarkus"/></a></td>
+            <td style="padding: 20px;"><a href="https://kafka.apache.org" target="_blank"><img height="40" width="40" src="https://openwhisk.apache.org/images/icons/icon-kafka-white-trans.png" alt="Kafka" /> </a></td>
+          </tr>
+          <tr>
+            <td style="padding: 20px;"><a href="https://www.postgresql.org" target="_blank"><img height="40" width="40" src="https://cdn.simpleicons.org/postgresql" /> </a></td>
+            <td style="padding: 20px;"><a href="https://www.mongodb.com" target="_blank"><img height="40" width="40" src="https://cdn.simpleicons.org/mongodb" /></a></td>
+            <td style="padding: 20px;"><a href="https://www.elastic.co" target="_blank"><img height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" /></a></td>
+            <td style="padding: 20px;"><a href="https://redis.io" target="_blank"><img height="40" width="40" src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="Redis" /></a></td>
+            <td style="padding: 20px;"><a href="https://www.rabbitmq.com" target="_blank"><img height="40" width="40" src="https://cdn.simpleicons.org/rabbitmq" /></a></td>
+          </tr>
+        </table>
+      </div>
+    </td>
+    <td valign="top" style="width:50%; text-align:center; padding: 50px;"">
+      <p align="center" style="font-weight: bold; font-size: 56px;">
+         DevOps
+      </p>
+      <div align="center">
+        <table>
+          <tr>
+            <td style="padding: 20px;"><a href="https://cloud.google.com/" target="_blank"><img height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" /></a></td>
+            <td style="padding: 20px;"><a href="https://www.pulumi.com/" target="_blank"><img height="40" width="40" src="https://www.pulumi.com/logos/brand/avatar-on-black.svg" alt="Pulumi" /></a></td>
+            <td style="padding: 20px;"><a href="https://www.docker.com/" target="_blank"><img height="40" width="40" src="https://www.svgrepo.com/show/373553/docker.svg" alt="Docker"/></a></td>
+            <td style="padding: 20px;"><a href="https://kubernetes.io/" target="_blank"><img height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" /></a></td>
+            <td style="padding: 20px;"><a href="https://www.terraform.io/" target="_blank"><img height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" /></a></td>
+          </tr>
+          <tr>      
+            <td style="padding: 20px;"><a href="https://github.com/" target="_blank"><img height="40" width="40" src="https://img.icons8.com/ios_filled/200/FFFFFF/github.png" alt="Git" /></a></td>
+            <td style="padding: 20px;"><a href="https://aws.amazon.com/" target="_blank"><img height="40" width="40" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-ptyrjxdo.png" alt="AWS" /></a></td>
+            <td style="padding: 20px;"><a href="https://www.jenkins.io/" target="_blank"><img height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" /></a></td>
+            <td style="padding: 20px;"><a href="https://grafana.com/" target="_blank"><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/351px-Grafana_icon.svg.png?20230113182558" alt="Grafana" /></a></td>
+            <td style="padding: 20px;"><a href="https://www.elastic.co/kibana/" target="_blank"><img height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/kibana.png" alt="Kibana" /></a></td>
+          </tr>
+        </table>
+      </div>
+    </td>
   </tr>
 </table>  
 
