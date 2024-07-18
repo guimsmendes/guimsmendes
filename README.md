@@ -7,6 +7,11 @@
   </div>  
 
 ### <div align="center"></div>  
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="center" style="width: 100%" />
+  </div>  
+
+  
 
 ```go
   var gMendes = Profile{
@@ -188,4 +193,9 @@ go.mod   0 secs          ██▓░░░░░░░░░░░░░░░�
 [![Guimsmendes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guimsmendes&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
-  
+
+
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" />
+  </div> 
+
