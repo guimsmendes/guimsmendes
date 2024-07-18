@@ -91,7 +91,7 @@
 
  <div>
   <a href="https://www.hackerrank.com/guimsmendes">
-  <img height="180em" src="https://streak-stats.demolab.com?user=guimsmendes&theme=tokyo-night&border_radius=20&exclude_days=Sun%2CSat&card_height=200"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=guimsmendes&theme=react-dark&border_radius=20&exclude_days=Sun%2CSat&card_height=200"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimsmendes&layout=compact&langs_count=7&theme=tokyo-night&border_radius=20"/>
 </div>
 <br/>  
