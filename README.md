@@ -9,11 +9,12 @@
 ### <div align="center"></div>  
 
 ```go
-  me := Profile{
+  gMendes := Profile{
       Name: "Guilherme Mendes",
       Location: "Amsterdam, NL",
       Birthplace: "Santos, BR",
-      Job: Experience{
+      Experiences: []Job{
+      {
             Position: "Sofware & DevOps Engineer",
             Company: "Gain.pro",
       },
@@ -27,23 +28,32 @@
 <br/>  
 
 
-## Connect with me  
+## Connect  
   <div align="center">
     <a href="https://linkedin.com/in/guilherme-mendes-b5381555" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
+    <a href = "mailto:guimsmendes@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
     <a href="https://instagram.com/guimsmendes" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
     </a>
-    <a href="https://github.com/guimsmendes" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    <a href="https://profile.playstation.com/Gui_Mendes95" target="_blank">
+    <img src="https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt=playstation style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://www.hackerrank.com/profile/guimsmendes" target="_blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt=hackerrank style="margin-bottom: 5px;" />
     </a>
     <a href="https://dev.to/guimsmendes" target="_blank">
     <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
     </a>
     <a href="https://medium.com/@guilhermemendes_57138" target="_blank">
     <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-    </a>  
+    </a>
+    <a href = "https://soundcloud.com/yunka-dj" target="_blank">
+    <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" target="_blank">
+    </a>
   </div>  
   
 
@@ -51,7 +61,7 @@
 
 
 
-<h2>Skill Set </h2> 
+<h2>Skills </h2> 
 <table align="center" style="width:100%;  text-align:center;table-layout:auto;">
   <tr>
     <td valign="center" style="width:50%; text-align:center; padding: 1000px;">
@@ -106,14 +116,14 @@
 <br/>  
 
 
-<h2>Spotify</h2>
+<h2>Music</h2>
 <p align="center">
 <br/>
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=12160458370&redirect=true" target="_blank">
-  <img height="400em" src="https://spotify-github-profile.kittinanx.com/api/view?uid=12160458370&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile" align="center">
+  <img height="300em" src="https://spotify-github-profile.kittinanx.com/api/view?uid=12160458370&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile" align="center">
 </a>
 <a href="https://spotify-recently-played-readme.vercel.app/api?user=12160458370&unique=true" target="_blank">
-  <img height="400em" src="https://spotify-recently-played-readme.vercel.app/api?user=12160458370&unique=true" alt="Recently Played" align="center">
+  <img height="300em" src="https://spotify-recently-played-readme.vercel.app/api?user=12160458370&unique=true" alt="Recently Played" align="center">
 </a>
 <br>
 </p>
@@ -124,8 +134,8 @@
 
  <p align="center">
   <a href="https://www.hackerrank.com/guimsmendes">
-  <img height="180em" src="https://streak-stats.demolab.com?user=guimsmendes&theme=ayu-mirage&border_radius=20&exclude_days=Sun%2CSat&card_height=200"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimsmendes&langs_count=7&theme=ayu-mirage&border_radius=20"/>
+  <img height="300em" src="https://streak-stats.demolab.com?user=guimsmendes&theme=ayu-mirage&border_radius=20&exclude_days=Sun%2CSat&card_height=200"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimsmendes&langs_count=7&theme=ayu-mirage&border_radius=20"/>
 </p>
 <br/>  
 
@@ -147,22 +157,3 @@ go.mod   0 secs          ██▓░░░░░░░░░░░░░░░�
 
 </details>
   
-
-
-
-   ##
-
-<div> 
-  <a href="https://www.linkedin.com/in/guilherme-mendes-b5381555/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "https://soundcloud.com/yunka-dj"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" target="_blank"></a>
-   <a href = "mailto:guimsmendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://t.me/guimsmendes"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/guimsmendes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a> 
- <a href="https://discord.gg/jkrM5gcD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<!--  
-  ![Snake animation](https://github.com/guimsmendes/guimsmendes/blob/output/github-contribution-grid-snake.svg)
- -->
-
-
- </div>
