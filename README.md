@@ -93,7 +93,7 @@
 
 
 
-<h2>Skills </h2> 
+<h2>Stack </h2> 
 <table align="center" style="width:100%;  text-align:center;table-layout:auto;">
   <tr>
     <td valign="center" style="width:50%; text-align:center; padding: 1000px;">
@@ -160,12 +160,11 @@
 <br>
 </p>
 
-<details>
+
   <summary><h2>Github Stats</h2></summary>
 
 
  <p align="center">
-  <a href="https://www.hackerrank.com/guimsmendes">
   <img height="250em" src="https://streak-stats.demolab.com?user=guimsmendes&theme=ayu-mirage&border_radius=20&exclude_days=Sun%2CSat&card_height=200"/>
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimsmendes&langs_count=7&theme=ayu-mirage&border_radius=20"/>
 </p>
@@ -187,7 +186,7 @@ go.mod   0 secs          ██▓░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 [![Guimsmendes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guimsmendes&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</details>
+
 
 
   <div align="center">
