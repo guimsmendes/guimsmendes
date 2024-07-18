@@ -86,6 +86,11 @@
     <a href = "https://soundcloud.com/yunka-dj" target="_blank">
     <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" target="_blank">
     </a>
+    <a href = "https://www.duolingo.com/profile/guimsmende1" target="_blank">
+    <img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank">
+    </a>
+
+   
   </div>  
   
 
