@@ -14,7 +14,7 @@
 	Location: "Amsterdam, NL", 
 	Birthplace: "Santos, BR", 
 	LivedCountries: []string{"BR", "JP", "NL"}, 
-	Hobbies: []string{"Travel", "Cats", "Music", "Photography", "Videogame", "Skateboard"},
+	Hobbies: []string{"Travel", "Cats", "Music", "Photography", "Bike", "Videogame"},
 	EagerToLearn: []string{"React", "Python", "LLM"}
 	Languages: []Language{
 		{ Name: "pt-BR", Level:"native"},
