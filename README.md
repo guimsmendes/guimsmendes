@@ -184,11 +184,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go               4 hrs 54 mins   █████████████████████▒░░░   85.49 %
-go.mod           21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
-YAML             13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-Text             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-JSON             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
