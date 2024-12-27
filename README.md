@@ -194,10 +194,3 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 [![Guimsmendes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guimsmendes&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
-
-  <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" />
-  </div> 
-
