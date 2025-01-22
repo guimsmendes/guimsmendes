@@ -184,11 +184,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SQL            56 mins         ███████████████▒░░░░░░░░░   60.75 %
-Go             19 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.24 %
-Bash           13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
-Shell Script   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-TOML           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
