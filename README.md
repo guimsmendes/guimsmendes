@@ -184,11 +184,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go                  3 hrs 8 mins    ██████████████████████▓░░   90.13 %
-JSON                15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
-Bash                2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-YAML                2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-textmate            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
